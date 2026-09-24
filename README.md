@@ -14,8 +14,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/basavakumarcs24-hub/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1051-height-checker](https://github.com/basavakumarcs24-hub/leetcode/tree/master/1051-height-checker) |
 ## Sorting
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/basavakumarcs24-hub/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1051-height-checker](https://github.com/basavakumarcs24-hub/leetcode/tree/master/1051-height-checker) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/basavakumarcs24-hub/leetcode/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/basavakumarcs24-hub/leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
